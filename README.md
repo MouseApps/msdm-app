@@ -17,7 +17,7 @@ This sample includes:
 * src/test - this directory contains your Java service unit test files
 * template.yml - this file contains the AWS Serverless Application Model (AWS SAM) used
   by AWS CloudFormation to deploy your application to AWS Lambda and Amazon API
-  Gateway.
+  Gateway. 
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 
 What Do I Do Next?
