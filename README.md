@@ -8,8 +8,8 @@ What's Here
 -----------
 
 This sample includes:
- 
-* README.md - this file
+  
+* README.md - t his file
 * buildspec.yml - this file is used by AWS CodeBuild to build the web
   service
 * pom.xml - this file is the Maven Project Object Model for the web service
